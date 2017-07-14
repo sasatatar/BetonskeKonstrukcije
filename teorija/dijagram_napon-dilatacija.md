@@ -30,7 +30,7 @@ Evrokod definiše tri oblika idealizovanih dijagrama napon-dilatacija za prorač
 
 U ovom radu biće korišten dijagram parabola-pravac \(slika 5.3\), koji je prema EC2 definisan sledećim izrazom:
 
-\(5.1\) $$x = y^2$$ //test
+\(5.1\) $$x = y^2$$ //test$$x = y$$
 
 pri čemu je:
 
