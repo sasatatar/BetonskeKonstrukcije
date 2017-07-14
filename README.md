@@ -4,7 +4,7 @@ Diplomski rad
 
 Saša Tatar
 
-$$\frac{n!}{k!(n-k)!}$$$$\frac{n!}{k!(n-k)!}$$
+$$\frac{n!}{k!(n-k)!}$$$$\frac{n!}{k!(n-k)!}$$$$x = y$$
 
 Banja Luka, juni 2016.
 
