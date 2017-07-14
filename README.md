@@ -2,9 +2,9 @@
 
 Diplomski rad
 
-Mentor: Student:
+Saša Tatar
 
-prof. dr Mato Uljarević Saša Tatar
+$$x = y^3$$
 
 Banja Luka, juni 2016.
 
@@ -22,7 +22,7 @@ Diploma thesis / Diplomski rad
 
 **Abstract**
 
-In past, hand calculations were the only way to design reinforced concrete sections. With the rapid development of computers, engineers are now able to perform more complex calculations faster and with greater precision, achieving more economical solutions. The goal of this thesis was to create an easy to use reinforced concrete section design tool with GUI. The result is a MATLAB program called _ConcreteTool_ which can be used to design reinforced concrete beam sections (rectangular and T sections) subjected to bending, shear and torsion loads, according to Eurocode 2\. Numerical example results obtained by ConcreteTool are compared against another commercial software called BETONexpress by RUNET.
+In past, hand calculations were the only way to design reinforced concrete sections. With the rapid development of computers, engineers are now able to perform more complex calculations faster and with greater precision, achieving more economical solutions. The goal of this thesis was to create an easy to use reinforced concrete section design tool with GUI. The result is a MATLAB program called _ConcreteTool_ which can be used to design reinforced concrete beam sections \(rectangular and T sections\) subjected to bending, shear and torsion loads, according to Eurocode 2. Numerical example results obtained by ConcreteTool are compared against another commercial software called BETONexpress by RUNET.
 
 **Keywords:** Matlab, reinforced concrete, section design, Eurocode.
 
@@ -30,7 +30,7 @@ In past, hand calculations were the only way to design reinforced concrete secti
 
 **Sažetak**
 
-U relativno bliskoj prošlosti, dimenzionisanje AB presjeka se vršilo isključivo ručno. Naglim razvojem računara, inženjeri su sada u mogućnosti da rješavaju mnogo kompleksnije probleme mnogo brže, preciznije i ekonomičnije. Cilj ovog rada bio je izrada jednostavnog programa sa grafičkim interfejsom za dimenzionisanje AB presjeka prema Evrokodu 2\. Rezultat je MATLAB program pod nazivom _ConcreteTool,_ koji se može koristiti za dimenzionisanje AB grednih presjeka izloženih uticajima momenta savijanja, transverzalne sile i momenta torzije. Rezultat proračuna brojnog primjera upoređen je sa drugim komercijalnim programom pod nazivom BETONexpress (RUNET).
+U relativno bliskoj prošlosti, dimenzionisanje AB presjeka se vršilo isključivo ručno. Naglim razvojem računara, inženjeri su sada u mogućnosti da rješavaju mnogo kompleksnije probleme mnogo brže, preciznije i ekonomičnije. Cilj ovog rada bio je izrada jednostavnog programa sa grafičkim interfejsom za dimenzionisanje AB presjeka prema Evrokodu 2. Rezultat je MATLAB program pod nazivom _ConcreteTool,_ koji se može koristiti za dimenzionisanje AB grednih presjeka izloženih uticajima momenta savijanja, transverzalne sile i momenta torzije. Rezultat proračuna brojnog primjera upoređen je sa drugim komercijalnim programom pod nazivom BETONexpress \(RUNET\).
 
 **Ključne riječi:** Matlab, armirani beton, dimenzionisanje presjeka, Evrokod.
 
@@ -42,7 +42,7 @@ Banja Luka, June 2016
 
 Predgovor
 
-Ovaj diplomski rad je urađen u periodu od januara do juna 2016\. godine na Arhitektonsko-građevinsko-geodetskom fakultetu u Banjaluci, pod mentorstvom prof. dr Mate Uljarevića, kome se ovom prilikom zahvaljujem na pomoći i podršci.
+Ovaj diplomski rad je urađen u periodu od januara do juna 2016. godine na Arhitektonsko-građevinsko-geodetskom fakultetu u Banjaluci, pod mentorstvom prof. dr Mate Uljarevića, kome se ovom prilikom zahvaljujem na pomoći i podršci.
 
 Takođe želim da se zahvalim asistentima Radovanu Vukomanoviću i Draganu Zrniću na izuzetno korisnim diskusijama i savjetima.
 
@@ -52,4 +52,5 @@ S tim na umu, ovaj rad je objavljen pod _Creative Commons_ licencom koja omoguć
 
 Na kraju, zahvaljujem se svojoj porodici na njihovoj bezrezervnoj podršci i strpljenju za vrijeme trajanja mog studija.
 
-Saša TatarBanja Luka, juni 2016\. godine
+Saša TatarBanja Luka, juni 2016. godine
+
