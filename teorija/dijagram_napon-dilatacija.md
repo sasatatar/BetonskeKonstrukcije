@@ -32,6 +32,8 @@ U ovom radu biće korišten dijagram parabola-pravac \(slika 5.3\), koji je prem
 
 \(5.1\) $$x = y^2$$ //test$$x = y$$
 
+\frac{n!}{k!\(n-k\)!}
+
 pri čemu je:
 
 dilatacija pri kojoj se ostvaruje maksimalna vrijednost napona u betonu \(za klase betona : \),
