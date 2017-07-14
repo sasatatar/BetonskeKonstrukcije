@@ -4,7 +4,9 @@ Diplomski rad
 
 Saša Tatar
 
-$$x = y^3$$
+$$\frac{n!}{k!(n-k)!}$$
+
+
 
 Banja Luka, juni 2016.
 
