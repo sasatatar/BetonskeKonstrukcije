@@ -8,7 +8,7 @@ Tipičan dijagram napon-dilatacija dobijen ispitivanjem aksijalno opterećenih c
 
 | Slika 5.1 - Dijagrami napon-dilatacija za različite klase betona | Slika 5.2 - Šematski prikaz dijagrama napon-dilatacija za beton |
 | --- | --- |
-
+| ![Slika 5.1 - Dijagrami napon-dilatacija za različite klase betona](../assets/dijagrami_napon_dilatacija_za_razlicite_klase_betona.svg "Dijagram napon-dilatacija za različite klase betona") | ![Slika 5.2 - Šematski prikaz dijagrama napon-dilatacija za beton](../assets/sematski_prikaz_dijagrama_napon-dilatacija_za_beton.svg "Šematski prikaz dijagrama napon-dilatacija za beton") |
 
 Sa porastom opterećenja koje se nanosi u relativno kratkom periodu, podužne deformacije rastu kvazi-linearno do napona koji je približno jednak polovini maksimalnog napona, nakon čega kriva postaje izrazito nelinearna. Maksimalan napon koji ujedno predstavlja i srednju čvrstoću betona se dostiže pri dilatacijama koje se kreću između 2 i 3‰, a zatim čvrstoća postepeno opada. Kompletan lom uzorka dešava se pri dilatacijama većim od 3‰ \(\) – slika 5.2.
 
